@@ -26,9 +26,9 @@ Neste perfil, compartilho meus projetos acadêmicos e exercícios práticos dese
 
 ## 📫 Contato
 
-- **GitHub:** [@dominic7](https://github.com/dominic7)
-- **LinkedIn:** Adicione seu link aqui.
-- **E-mail:** Adicione seu e-mail profissional aqui.
+- **GitHub:** 
+- **LinkedIn:** www.linkedin.com/in/leonardo-dominic
+- **E-mail:** leo.dominicmb@gmail.com
 
 ---
 
