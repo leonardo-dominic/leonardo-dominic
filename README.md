@@ -1,35 +1,27 @@
-# Olá! 👋 Eu sou Leonardo Dominic
+# E aí! 👋 Eu sou o Leonardo.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-💻 Estou desenvolvendo meus conhecimentos na área de Tecnologia da Informação, com foco em programação, desenvolvimento web e bancos de dados.
+Estou começando minha jornada na área de tecnologia e usando a faculdade para aprender mais sobre programação, desenvolvimento web e bancos de dados.
 
-🚀 Meu objetivo é aprimorar minhas habilidades técnicas por meio dos estudos, de projetos acadêmicos e da prática constante.
+Atualmente, estou estudando Python, C, HTML e MySQL. Ainda tenho muito a aprender, mas gosto de colocar em prática o que estudo e acompanhar minha evolução por meio de projetos.
 
-## 🛠️ Tecnologias e ferramentas
+## 💻 Tecnologias
 
-- 🐍 Python — fundamentos de programação.
-- 🌐 HTML — estruturação de páginas web.
-- 🗄️ MySQL — criação e gerenciamento de bancos de dados.
-- 🔧 Git e GitHub — versionamento e organização de projetos.
-
-## 📚 Atualmente estudando
-
-- Lógica de programação.
-- Desenvolvimento de aplicações.
-- Banco de dados e SQL.
-- Boas práticas de documentação e organização de código.
+- Python e C — aprendendo lógica de programação.
+- HTML — criando páginas web.
+- MySQL — aprendendo a estruturar bancos de dados.
 
 ## 📂 Meus projetos
 
-Neste perfil, compartilho meus projetos acadêmicos e exercícios práticos desenvolvidos durante minha formação em ADS.
+Aqui vou publicar trabalhos da faculdade e projetos pessoais que desenvolver durante meus estudos.
 
-## 📫 Contato
+A ideia é manter este espaço atualizado e mostrar minha evolução na programação, um projeto de cada vez.
 
-- **GitHub:** 
-- **LinkedIn:** www.linkedin.com/in/leonardo-dominic
-- **E-mail:** leo.dominicmb@gmail.com
+## 📫 Onde me encontrar
+
+- LinkedIn: www.linkedin.com/in/leonardo-dominic
+- E-mail: leo.dominicmb@gmail.com
 
 ---
-
-⭐ Obrigado por visitar meu perfil!
+*Um passo de cada vez, sempre aprendendo algo novo.* 🚀
